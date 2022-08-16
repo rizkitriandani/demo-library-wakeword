@@ -271,7 +271,7 @@ packages:
   vosk_flutter_plugin:
     dependency: "direct main"
     description:
-      path: "../vosk-flutter"
+      path: "../wakeword-flutter"
       relative: true
     source: path
     version: "1.0.2"

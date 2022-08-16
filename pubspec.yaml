@@ -11,7 +11,7 @@ dependencies:
   flutter: 
     sdk: flutter
   vosk_flutter_plugin: 
-    path: ../vosk-flutter/
+    path: ../wakeword-flutter/
   # vosk_flutter_plugin:
   #   git:
   #     url: https://github.com/bahasa-kita/wakeword-flutter.git
