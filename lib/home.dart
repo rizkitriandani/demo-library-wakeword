@@ -34,16 +34,6 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
-    kw.action = () {
-      logger.d("showing dialog");
-      showDialog(
-        context: context,
-        builder: (context) => AlertDialog(
-          title: Text("Keyword Detected"),
-        ),
-      );
-    };
-
     return Scaffold(
       appBar: AppBar(
         title: const Text('LW Demo'),
